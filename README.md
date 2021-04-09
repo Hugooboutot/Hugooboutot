@@ -36,7 +36,6 @@
     </a>
   </p>
 </details>
-##
 <!--
 ### Github trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Hugooboutot&theme=dark)
