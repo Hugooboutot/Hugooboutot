@@ -9,16 +9,9 @@
 <div>
 
 - 🔭 <samp>I’m currently working on my Data Structures and Algorithm skills.
-- 😄 <samp>I’m the creator of [#100DaysOfFlutter Challenge](https://100daysofflutter.azurewebsites.net/#/)
-- ✍🏻 <samp>I write articles for the [Flutter Community](https://medium.com/@rageremix) and [IEEE CIET](https://ieee.chitkara.edu.in/)
+- 😄 <samp>I’m one of creator of Hololooo & Pet's Meet app.
 - 💬 <samp>Ask me about Flutter
-- ⚡ <samp>I’m the organiser of [Flutter Chandigarh](https://github.com/flutterchandigarh)
 - 🤖 <samp>Creator of bot [#100DaysOfFlutter](https://twitter.com/100xFlutter) & [#GitHubWrapped](https://twitter.com/GitHubWrapped)
-- 🥇 <samp>Among Top 10 contributors at [@GirlScriptSummerOfCode2020](https://github.com/GirlScriptSummerOfCode) & [@JGEC WOC](https://github.com/JGEC-Winter-of-Code)
-- 😄 <samp>Pronouns: He/His
-<!-- - 🤔 <samp>I’m looking for help with starting Android Development -->
-<!-- - ⚡ <samp>Fun fact: Trap Nation is my buddy. -->
-<!-- - 👯 <samp>I’m looking to collaborate on **Open Source Projects** -->
 </div>
 <br><br>
 <h3>How to reach me:</h3>
@@ -32,9 +25,6 @@
 <br><br>
 
 ### Github Stats
-<!--
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=amandewatnitrr&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true)](https://github.com/amandewatnitrr/github-readme-stats-1)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript)](https://github.com/amandewatnitrr/github-readme-stats-1)-->
-
 ##
 <details>
   <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
@@ -46,6 +36,7 @@
     </a>
   </p>
 </details>
+##
 <!--
 ### Github trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Hugooboutot&theme=dark)
