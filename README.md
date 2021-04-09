@@ -4,8 +4,8 @@
 <p align="center"><h1 align="center"><samp> I am Hugo Boutot </samp></h1></p>
 <p align="center"><h4 align="center"><samp> A Flutter Developer, A Microsoft Learn Student Ambassador & A Technical Writer </samp></h4></p>
 <br>
-<div>
   <p align="center"><samp><img src="https://github.com/Hugooboutot/Hugooboutot/blob/main/hugo.gif" width="250px"></samp></p>
+<div>
 
 - 🔭 <samp>I’m currently working on my Data Structures and Algorithm skills.
 - 😄 <samp>I’m the creator of [#100DaysOfFlutter Challenge](https://100daysofflutter.azurewebsites.net/#/)
