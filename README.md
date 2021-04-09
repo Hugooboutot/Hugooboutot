@@ -15,9 +15,11 @@
 </div>
 
 <br><br>
-<h3>🛠 &nbsp;Tech Stack</h3>
+<h3>🛠 &nbsp;Tech Stack:</h3>
 <br>
-  
+<a href="https://www.linkedin.com/in/hugo-boutot/">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
 <br><br>
 <h3>How to reach me:</h3>
 <br>
