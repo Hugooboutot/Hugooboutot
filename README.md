@@ -5,6 +5,7 @@
 <p align="center"><h4 align="center"><samp> A Flutter Developer, A Microsoft Learn Student Ambassador & A Technical Writer </samp></h4></p>
 <br>
   <p align="center"><samp><img src="https://github.com/Hugooboutot/Hugooboutot/blob/main/hugo.gif" width="250px"></samp></p>
+  <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 <div>
 
 - 🔭 <samp>I’m currently working on my Data Structures and Algorithm skills.
