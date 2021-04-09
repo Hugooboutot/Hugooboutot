@@ -6,7 +6,6 @@
 <br>
   <p align="center"><samp><img src="https://github.com/Hugooboutot/Hugooboutot/blob/main/hugo.gif" width="250px"></samp></p>
   <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 <div>
 
 - 🔭 <samp>I’m currently working on my Data Structures and Algorithm skills.
@@ -21,32 +20,32 @@
 <!-- - ⚡ <samp>Fun fact: Trap Nation is my buddy. -->
 <!-- - 👯 <samp>I’m looking to collaborate on **Open Source Projects** -->
 </div>
+<br><br>
+<h3>How to reach me:</h3>
+<br>
+<a href="https://www.linkedin.com/in/hugo-boutot/">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Hugooboutot">
+  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<br><br>
 
-
-
-<!--
-**Hugooboutot/Hugooboutot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Github Stats
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=amandewatnitrr&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true)](https://github.com/amandewatnitrr/github-readme-stats-1)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript)](https://github.com/amandewatnitrr/github-readme-stats-1)-->
-<p align="center">
-  <a href="https://github.com/Hugooboutot">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugooboutot&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hugooboutot&hide=html,css,javascript&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+
+##
+<details>
+  <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
+  <br>
+  <p align="center">
+    <a href="https://github.com/Hugooboutot">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugooboutot&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hugooboutot&hide=html,css,javascript&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
+  </p>
+</details>
 <!--
 ### Github trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Hugooboutot&theme=dark)
