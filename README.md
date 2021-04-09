@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 </p>
 
 ### Github trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&theme=dark)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer)  
+![trophy](https://github-profile-trophy.vercel.app/?username=Hugooboutot&theme=dark)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Hugooboutot)  
 <br />
 
 ##
