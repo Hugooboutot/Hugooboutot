@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Hugooboutot)  
 <br />
 -->
-##
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Hugooboutot/count.svg" />
