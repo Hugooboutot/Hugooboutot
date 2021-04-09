@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+# Hey Everyone! I'm [Hugo Boutot!](https://github.com/Hugooboutot) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <!--
 **Hugooboutot/Hugooboutot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
