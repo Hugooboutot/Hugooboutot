@@ -56,3 +56,4 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Hugooboutot/count.svg" />
 </p>
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
