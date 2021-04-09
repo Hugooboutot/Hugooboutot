@@ -13,6 +13,11 @@
 - 💬 <samp>Ask me about Flutter
 - 🤖 <samp>Creator of bot [#100DaysOfFlutter](https://twitter.com/100xFlutter) & [#GitHubWrapped](https://twitter.com/GitHubWrapped)
 </div>
+
+<br><br>
+<h3>🛠 &nbsp;Tech Stack</h3>
+<br>
+  
 <br><br>
 <h3>How to reach me:</h3>
 <br>
