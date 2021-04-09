@@ -12,6 +12,7 @@
 - 😄 <samp>I’m one of creator of Hololooo & Pet's Meet app.
 - 💬 <samp>Ask me about Flutter
 - 🤖 <samp>Creator of bot [#100DaysOfFlutter](https://twitter.com/100xFlutter) & [#GitHubWrapped](https://twitter.com/GitHubWrapped)
+- 🌱 I’m currently learning **Blockchain Science**
 </div>
 
 <br><br>
@@ -19,6 +20,9 @@
 <br>
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
 <img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
+
 <br><br>
 <h3>How to reach me:</h3>
 <br>
