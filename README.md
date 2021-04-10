@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/-EOS-05122A?style=flat&logo=EOS&logoColor=FFA518">
 <img src="https://img.shields.io/badge/-Qtum-05122A?style=flat&logo=Qtum&logoColor=FFA518">
 
-<br><br>
+<br>
 <h3>How to reach me:</h3>
 <br>
 <a href="https://www.linkedin.com/in/hugo-boutot/">
