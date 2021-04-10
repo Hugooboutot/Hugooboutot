@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
 <br>
-<h3> ⚙️ &nbsp;Tech Stack:</h3>
+<h3> ⚙️ &nbsp;Tools:</h3>
 <br>
 <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff">
 <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab">
