@@ -10,8 +10,7 @@
 
 - 🔭 <samp>I’m currently working on my Data Structures and Algorithm skills.
 - 😄 <samp>I’m one of creator of Hololooo & Pet's Meet app.
-- 💬 <samp>Ask me about Flutter
-- 🤖 <samp>Creator of bot [#100DaysOfFlutter](https://twitter.com/100xFlutter) & [#GitHubWrapped](https://twitter.com/GitHubWrapped)
+- 💬 <samp>Ask me about Blockchain && Flutter
 - 🌱 I’m currently learning **Blockchain Science**
 </div>
 
