@@ -24,9 +24,12 @@
 <img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
+<img src="https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white">
+
 <br>
 <h3> ⚙️ &nbsp;Tools:</h3>
 <br>
+
 <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff">
 <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab">
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
@@ -34,6 +37,15 @@
 <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm">
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff">
 
+<br>
+<h3>₿ Blockchain:</h3>
+<br>
+
+<img src="https://img.shields.io/badge/-Bitcoin-05122A?style=flat&logo=Bitcoin&logoColor=FFA518">
+<img src="https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=Ethereum&logoColor=FFA518">
+<img src="https://img.shields.io/badge/-Cosmos-05122A?style=flat&logo=Cosmos&logoColor=FFA518">
+<img src="https://img.shields.io/badge/-EOS-05122A?style=flat&logo=EOS&logoColor=FFA518">
+<img src="https://img.shields.io/badge/-Qtum-05122A?style=flat&logo=Qtum&logoColor=FFA518">
 
 <br><br>
 <h3>How to reach me:</h3>
