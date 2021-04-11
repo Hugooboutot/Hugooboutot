@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
   <img align="left" alt="Flutter"  src="https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white" />
 </a>
-<br>
+<br><br>
 <a href="https://docs.python.org/fr/3/">
   <img align="left" alt="Python"  src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" />
 </a>
