@@ -11,12 +11,30 @@
 - 🔭 <samp>I’m currently working on Flutter app and Algorithm skills.
 - 😄 <samp>I’m one of creator of Hololooo & Pet's Meet app.
 - 💬 <samp>Ask me about Blockchain && Flutter.
+- 💼 I’m pursuing a Master' degree in Computer Science(Blockchain).
 - 🌱 I’m currently learning **Blockchain Science**
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/) to get more info.
 </div>
 
 <br>
 <h3>🛠 &nbsp;Tech Stack:</h3>
 <br>
+<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
+  <img align="left" alt="JavaScript"  src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
+</a>
+<a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
+  <img align="left" alt="Flutter"  src="https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
+  <img align="left" alt="Dart"  src="https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
+  <img align="left" alt="Dart"  src="https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white" />
+</a>
+<br>
+<a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
+  <img align="left" alt="Dart"  src="https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white" />
+</a>
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
 <img src="https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white">
