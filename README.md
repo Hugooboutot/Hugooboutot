@@ -26,15 +26,9 @@
 <a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
   <img align="left" alt="Flutter"  src="https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
-  <img align="left" alt="Dart"  src="https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
-  <img align="left" alt="Dart"  src="https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white" />
-</a>
 <br>
-<a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
-  <img align="left" alt="Dart"  src="https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white" />
+<a href="https://docs.python.org/fr/3/">
+  <img align="left" alt="Python"  src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" />
 </a>
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
 <img src="https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white">
