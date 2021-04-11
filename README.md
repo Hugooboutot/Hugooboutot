@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff">
 
 <br>
-<h3>₿ Blockchain:</h3>
+<h3>₿lockchain:</h3>
 <br>
 
 <img src="https://img.shields.io/badge/-Bitcoin-05122A?style=flat&logo=Bitcoin&logoColor=FFA518">
