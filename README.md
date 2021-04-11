@@ -8,9 +8,9 @@
   <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <div>
 
-- 🔭 <samp>I’m currently working on my Data Structures and Algorithm skills.
+- 🔭 <samp>I’m currently working on Flutter app and Algorithm skills.
 - 😄 <samp>I’m one of creator of Hololooo & Pet's Meet app.
-- 💬 <samp>Ask me about Blockchain && Flutter
+- 💬 <samp>Ask me about Blockchain && Flutter.
 - 🌱 I’m currently learning **Blockchain Science**
 </div>
 
