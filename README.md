@@ -14,7 +14,7 @@
 - 💼 I’m pursuing a Master' degree in Computer Science(Blockchain).
 - 🌱 I’m currently learning **Blockchain Science**
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/) to get more info.
-- 📌 Paris, France 🇫 🇫
+- 📌 Paris, France 🇫
 </div>
 
 <br>
