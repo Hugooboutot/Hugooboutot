@@ -54,6 +54,8 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm">
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white">
+
 
 <br>
 <h3>₿lockchain:</h3>
