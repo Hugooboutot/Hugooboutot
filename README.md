@@ -32,6 +32,10 @@
   <a href="https://developer.mozilla.org/fr/docs/Web/HTML">
   <img align="left" alt="HTML"  src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" />
 </a>
+</a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/CSS/Reference">
+  <img align="left" alt="css3"  src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
+</a>
 <!-- <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
 <img src="https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white">
