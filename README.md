@@ -2,7 +2,7 @@
 <!--
 <p align="center"><samp><b> Hey there! <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px"> </b></samp></p>
 <p align="center"><h1 align="center"><samp> I am Hugo Boutot </samp></h1></p> -->
-<p align="center"><h4 align="center"><samp> A Flutter Developer, A Microsoft Learn Student Ambassador & A Technical Writer </samp></h4></p>
+<p align="center"><h4 align="center"><samp> A French Developer, Student in alternship & A Passionate </samp></h4></p>
 <br>
   <p align="center"><samp><img src="https://github.com/Hugooboutot/Hugooboutot/blob/main/hugo.gif" width="250px"></samp></p>
   <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
