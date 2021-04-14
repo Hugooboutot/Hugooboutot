@@ -47,16 +47,28 @@
 <br>
 <h3> ⚙️ &nbsp;Tools:</h3>
 <br>
-
-<img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff">
-<img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm">
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff">
-<img src="https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white">
-
-
+<a href="https://git-scm.com/">
+<img align="left" alt="git"  src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" />
+</a>
+<a href="https://about.gitlab.com/">
+<img align="left" alt="gitlab"  src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" />
+</a>
+<a href="https://github.com/">
+<img align="left" alt="github"  src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+</a>
+<a href="https://code.visualstudio.com/">
+<img align="left" alt="VSCODE"  src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
+</a>
+<br>
+<a href="https://code.visualstudio.com/">
+<img align="left" alt="npm"  src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" />
+</a>
+<a href="https://code.visualstudio.com/">
+<img align="left" alt="Android-Studio"  src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff" />
+</a>
+<a href="https://code.visualstudio.com/">
+<img align="left" alt="Firebase"  src="https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white" />
+</a>
 <br>
 <h3>₿lockchain:</h3>
 <br>
