@@ -72,12 +72,22 @@
 <br>
 <h3>₿lockchain:</h3>
 <br>
-
-<img src="https://img.shields.io/badge/-Bitcoin-05122A?style=flat&logo=Bitcoin&logoColor=FFA518">
-<img src="https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=Ethereum&logoColor=FFA518">
-<img src="https://img.shields.io/badge/-Cosmos-05122A?style=flat&logo=Cosmos&logoColor=FFA518">
-<img src="https://img.shields.io/badge/-EOS-05122A?style=flat&logo=EOS&logoColor=FFA518">
-<img src="https://img.shields.io/badge/-Qtum-05122A?style=flat&logo=Qtum&logoColor=FFA518">
+<a href="https://code.visualstudio.com/">
+<img align="left" alt="Bitcoin"  src="https://img.shields.io/badge/-Bitcoin-05122A?style=flat&logo=Bitcoin&logoColor=FFA518" />
+</a>
+<a href="https://ethereum.org/en/">
+<img align="left" alt="Ethereum"  src="https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=Ethereum&logoColor=FFA518" />
+</a>
+<br>
+<a href="https://cosmos.network/">
+<img align="left" alt="Cosmos"  src="https://img.shields.io/badge/-Cosmos-05122A?style=flat&logo=Cosmos&logoColor=FFA518" />
+</a>
+<a href="https://cosmos.network/">
+<img align="left" alt="EOS"  src="https://img.shields.io/badge/-EOS-05122A?style=flat&logo=EOS&logoColor=FFA518" />
+</a>
+<a href="https://qtum.org/en">
+<img align="left" alt="Qtum"  src="https://img.shields.io/badge/-Qtum-05122A?style=flat&logo=Qtum&logoColor=FFA518" />
+</a>
 
 <br>
 <h3>How to reach me:</h3>
