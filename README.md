@@ -112,7 +112,7 @@
     </a>
   </p>
 </details>
-
+<br>
 ### Spotify Playing 🎧
 ##
 <details>
