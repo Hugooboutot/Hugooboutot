@@ -70,7 +70,7 @@
 <img align="left" alt="Firebase"  src="https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white" />
 </a>
 <a href="https://code.visualstudio.com/">
-<img align="left" alt="Firebase"  src="  https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+<img align="left" alt="Firebase"  src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
 </a>
 <br>
 <h3>₿lockchain:</h3>
