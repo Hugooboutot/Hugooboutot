@@ -25,19 +25,22 @@
 <a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
   <img align="left" alt="Flutter"  src="https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white" />
 </a>
-<br>
-<a href="https://docs.python.org/fr/3/">
+  <a href="https://docs.python.org/fr/3/">
   <img align="left" alt="Python"  src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" />
 </a>
+<br>
   <a href="https://developer.mozilla.org/fr/docs/Web/HTML">
   <img align="left" alt="HTML"  src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" />
 </a>
 </a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/CSS/Reference">
+<a href="https://developer.mozilla.org/fr/docs/Web/CSS/Reference">
   <img align="left" alt="css3"  src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
 </a>
- <a href="https://code.visualstudio.com/">
-<img align="left" alt="Firebase"  src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+<a href="https://code.visualstudio.com/">
+  <img align="left" alt="Arduino"  src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+</a>
+<a href="https://code.visualstudio.com/">
+  <img align="left" alt="Arduino"  src="https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
 </a>
 <!-- <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
 <img src="https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white">
