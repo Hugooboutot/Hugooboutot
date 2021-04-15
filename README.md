@@ -112,6 +112,16 @@
     </a>
   </p>
 </details>
+
+### Spotify Playing 🎧
+##
+<details>
+  <summary><b><samp>🎧 Spotify Playing</samp></b></summary>
+  <br>
+  <p align="center">
+    <h5>🛠 COMING SOON ! 🛠 </h5>
+  </p>
+</details>
 <!--
 ### Github trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Hugooboutot&theme=dark)
