@@ -29,13 +29,14 @@
   <img align="left" alt="Python"  src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" />
 </a>
 <br>
+  <!--
   <a href="https://developer.mozilla.org/fr/docs/Web/HTML">
   <img align="left" alt="HTML"  src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" />
 </a>
 </a>
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS/Reference">
   <img align="left" alt="css3"  src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
-</a>
+</a>-->
 <a href="https://code.visualstudio.com/">
   <img align="left" alt="Arduino"  src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
 </a>
